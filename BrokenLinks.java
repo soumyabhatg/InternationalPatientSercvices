@@ -121,7 +121,7 @@ public class BrokenLinks {
                 {
  
                     System.out.println("At " + element.getAttribute("innerHTML") + " Exception occured -&gt; " + exp.getMessage());                
- 
+                    System.out.println("----------------------------------");
                 }
  
             }
