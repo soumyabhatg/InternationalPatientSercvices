@@ -73,6 +73,7 @@ public class VikramHospital {
       acceptNextAlert = true;
       System.out.println("build triggers");
       System.out.println("------------");
+      System.out.println("triggering build successfully");
     }
   }
 }
